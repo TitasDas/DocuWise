@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Smart Path</string>
+    <string name="textview">TextView</string>
+    <string name="A">Ask</string>
+
+
+
+    <string name="API_KEY">4ec4436b8b930b5c37035ea37eda3b97a28c4773727bff557c6037d8</string>
+
+
+
+    <string name="ans">Answer will be displayed here</string>
+    <string name="q">        Please enter your question here</string>
+</resources>
