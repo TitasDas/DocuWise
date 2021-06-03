@@ -1,4 +1,8 @@
-# OpenNLP---Android-Example
+# Goal:
+The idea is to be able to build a full fledged question answering system that can condense knowledge from pdf documents. 
+
+
+# Whats done so far :
 An android application which displays 'parts of speech' tags for questions entered using Apache's OpenNLP library(https://opennlp.apache.org/) . 
 
 
