@@ -1,5 +1,5 @@
 # Goal:
-The idea is to be able to build a full fledged question answering system that can condense knowledge from pdf documents. 
+The idea is to be able to build a full fledged question answering system that can condense knowledge from pdf documents well enough to be able to answer a set of questions.  
 
 
 # Whats done so far :
