@@ -14,7 +14,7 @@ Demo
 
 Divide this into smaller cycles , a couple of objectives would be. 
 
-1. User is able to upload any pdf document 
+1. User is able to upload any pdf document.
   - Introduce page limits if needed or access how hard it is to upload pdfs.
   - develop the entire interface to be able to upload a pdf in the application. 
 
