@@ -19,6 +19,7 @@ Divide this into smaller cycles , a couple of objectives would be.
   - develop the entire interface to be able to upload a pdf in the application. 
 
 2. Simple question answering system on android to handle easy questions based on the knowledge that can be derived from the uploaded documents. 
+
 3. Refine the question answering system.
   - Access the need for a knowledge graph or knowledge base of any kind. 
   - Specific section under references for refining question answering systems. 
