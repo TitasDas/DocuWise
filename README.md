@@ -15,7 +15,7 @@ Demo
 Divide this into smaller cycles , a couple of objectives would be. 
 
 1. User is able to upload any pdf document.
-  - Introduce page limits if needed or access how hard it is to upload pdfs.
+  - Introduce page limits if needed or assess how hard it is to upload pdfs.
   - develop the entire interface to be able to upload a pdf in the application. 
 
 2. Simple question answering system on android to handle easy questions based on the knowledge that can be derived from the uploaded documents. 
