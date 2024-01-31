@@ -22,7 +22,10 @@ Divide this into smaller cycles , a couple of objectives would be.
 
 3. Refine the question answering system.
   - Access the need for a knowledge graph or knowledge base of any kind. 
-  - Specific section under references for refining question answering systems. 
+  - Specific section under references for refining question answering systems.
+
+## Plan 2 (31st jan 2024)
+- Enter LLMs - develop a streamlit RAG app that allows users to upload documents and ask questions
 
 # References
 
