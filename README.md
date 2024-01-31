@@ -1,3 +1,4 @@
+## This project is in progress and the Readme will soon be updated
 # Goal
 The idea is to be able to build a full fledged question answering system that can condense knowledge from uploaded pdf documents well enough to be able to answer a set of questions.  
 
