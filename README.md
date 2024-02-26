@@ -26,11 +26,10 @@ Divide this into smaller cycles , a couple of objectives would be.
   - Specific section under references for refining question answering systems.
 
 ## Plan 2 (31st jan 2024)
-- Enter LLMs - develop a streamlit RAG app that allows users to upload documents and ask questions
+- Enter LLMs - develop a streamlit RAG app that allows users to upload documents and ask questions [Done](https://github.com/TitasDas/Docuwise2.0)
 
 # References
 
 
 # Other references
 1. Conversational question answering for alexa by amazon - https://www.amazon.science/publications/knowledge-informed-semantic-parsing-for-conversational-question-answering
-2. 
